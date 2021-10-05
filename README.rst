@@ -4,10 +4,10 @@ A single class to take pairwise tests between groups, and create boxplots or bar
 
 Classmethods
 -------
-`StarPlot`: only do some internal transformations.
-`StarPlot.test`: do statistical tests without plotting.
-`StarPlot.base`: plot without annotations.
-`StarPlot.star`: test, plot, and annotate.
+1. `StarPlot`: only do some internal transformations.
+2. `StarPlot.test`: do statistical tests without plotting.
+3. `StarPlot.base`: plot without annotations.
+4. `StarPlot.star`: test, plot, and annotate.
 
 Credits
 -------
